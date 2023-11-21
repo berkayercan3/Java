@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="58c1e364-bf27-4008-91a6-36f3b9dcfa82" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assigmnets3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/BracketChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AssignmentsTWO/AssignmentsTWO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dersLinkList/src/LinkList/LinkList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dersLinkList/src/dersLinkList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dersodev/dersodev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dersodev/src/LinkedListRecursive/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dersodev/src/LinkedListRecursive/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dersodev/src/LinkedListRecursive/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/lessonThree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Queue/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Queue/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Queue/LinkQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Queue/LinkQueueApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Queue/QueueApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Stack/BracketCheceker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Stack/BracketChecekerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Stack/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Stack/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Stack/LinkStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Stack/LinkStackApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Stack/StackX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Stack/StackXApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/lessonfour.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/src/LinkedListRecursive/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/src/LinkedListRecursive/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/src/LinkedListRecursive/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/src/recursive/fibonachi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/src/recursive/reverseof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/src/recursive/usalma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentsTWO/src/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentsTWO/src/LinkList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentsTWO/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentsTWO/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/LinkStack.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Main.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2YRlzeoRhKolslYVZgZ2p2599dt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Berkay/IdeaProjects/Java/Assigmnets3/src/Main.java&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="58c1e364-bf27-4008-91a6-36f3b9dcfa82" name="Changes" comment="" />
+      <created>1700496538621</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700496538621</updated>
+    </task>
+    <servers />
+  </component>
+</project>
