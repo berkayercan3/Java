@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b0114851-e7d2-46e4-8973-509aa1392f46" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Assigmnets3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigmnets3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigmnets3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigmnets3/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigmnets3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigmnets3/Assigmnets3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigmnets3/src/BracketChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigmnets3/src/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigmnets3/src/LinkStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assigmnets3/src/LinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../AssignmentsTWO/AssignmentsTWO.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dersLinkList/src/LinkList/LinkList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dersLinkList/src/dersLinkList.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dersodev/dersodev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dersodev/src/LinkedListRecursive/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dersodev/src/LinkedListRecursive/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dersodev/src/LinkedListRecursive/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lessonThree.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/LinkQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/LinkQueueApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Queue/QueueApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/BracketCheceker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/BracketChecekerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/LinkStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/LinkStackApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/StackX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Stack/StackXApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/lessonfour.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/src/LinkedListRecursive/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/src/LinkedListRecursive/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/src/LinkedListRecursive/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/src/recursive/fibonachi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/src/recursive/reverseof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/src/recursive/usalma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentsTWO/src/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentsTWO/src/LinkList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentsTWO/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentsTWO/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/Queue/LinkList.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Queue/LinkQueue.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Queue/Queue.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Stack/BracketCheceker.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Stack/BracketChecekerApp.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Stack/LinkStack.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/Stack/StackXApp.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2Y7WGreTJb2vyZOrJH9BhhlR9eH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Berkay/IdeaProjects/Java/lessonThree/src/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;debugger.dataViews&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b0114851-e7d2-46e4-8973-509aa1392f46" name="Changes" comment="" />
+      <created>1699877009033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1699877009033</updated>
+    </task>
+    <servers />
+  </component>
+</project>

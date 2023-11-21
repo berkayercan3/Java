@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05d470e6-7069-4fe5-8bb0-81cce2a08be2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/LinkedListRecursive/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedListRecursive/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LinkedListRecursive/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Queue/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Queue/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Queue/LinkQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Queue/LinkQueueApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Queue/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Queue/QueueApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Stack/BracketCheceker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Stack/BracketChecekerApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Stack/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Stack/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Stack/LinkStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Stack/LinkStackApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Stack/StackX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonThree/src/Stack/StackXApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/src/LinkedListRecursive/Link.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/src/LinkedListRecursive/LinkList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/src/LinkedListRecursive/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/src/recursive/fibonachi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/src/recursive/reverseof.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lessonfour/src/recursive/usalma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentsTWO/src/LinkList.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentsTWO/src/LinkList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../AssignmentsTWO/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../AssignmentsTWO/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2YQsZE22Ru3LEyEA5nHFsdP1Qp8" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Berkay/IdeaProjects/Java/dersodev/src/Main.java&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="LinkedListRecursive.Main" />
+      <module name="dersodev" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05d470e6-7069-4fe5-8bb0-81cce2a08be2" name="Changes" comment="" />
+      <created>1700469192690</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700469192690</updated>
+    </task>
+    <servers />
+  </component>
+</project>
