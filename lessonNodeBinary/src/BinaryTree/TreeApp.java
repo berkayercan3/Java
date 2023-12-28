@@ -4,7 +4,8 @@ import java.util.Scanner;
 
 public class TreeApp {
     public static void main(String[] args) {
-        Tree theTree = new Tree();
+
+        Tree theTree = new Tree(); //tree de oluşturulan method burada theTree olarak çağrıldı
 
         theTree.insert(50);
         theTree.insert(25);

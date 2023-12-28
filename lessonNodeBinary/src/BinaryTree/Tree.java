@@ -17,7 +17,7 @@ public class Tree {
             root=newNode;
         else {
             Node current = root;
-            Node parent;
+            Node parent; //ana, esas
             while(true){
                 parent = current;
                 if (data < current.data){
@@ -64,10 +64,13 @@ public class Tree {
                 System.out.print("\n PostOrder:");
                 postOrder(root);
             }
+            default -> {
+                System.out.print("\n Yanlıs secım yaptınz!");
+            }
         }
         System.out.println("");
     }
-    public void preOrder(Node localRoot){
+    public void preOrder(Node localRoot){ // kök sol sağ
         if (localRoot != null){
             System.out.print(localRoot.data + " ");
             preOrder(localRoot.leftChild);
@@ -75,15 +78,16 @@ public class Tree {
         }
     }
 
-    public void inOrder(Node localRoot){
+    public void inOrder(Node localRoot){ // sol kök sağ
         if (localRoot != null){
-            inOrder(localRoot.leftChild);
+            inOrder(localRoot.leftChild); // lef null olana dek en sola geldi, null ile karşılaşınca durdu ve
+                                            // printledi sonra righta geçti
             System.out.print(localRoot.data + " ");
             inOrder(localRoot.rightChild);
         }
     }
 
-    public void postOrder(Node localRoot){
+    public void postOrder(Node localRoot){ // sol sağ kök
         if (localRoot != null){
             postOrder(localRoot.leftChild);
             postOrder(localRoot.rightChild);
@@ -104,9 +108,9 @@ public class Tree {
     public boolean delete(long key) {
         Node current = root;
         Node parent = root;
-        boolean isLeftChild = true;
+        boolean isLeftChild = true; // silinecek değer sağ çocuk mu sol çocuk mu ?
 
-        while (current.data != key) {
+        while (current.data != key) { // aradığım değer currentime eşit oludğunda buldu while den çık
             parent = current;
             if (key < current.data) {
                 isLeftChild = true;
@@ -115,7 +119,7 @@ public class Tree {
                 isLeftChild = false;
                 current = current.rightChild;
             }
-            if (current == null)
+            if (current == null) // aranan değer ağaçta yok
                 return false;
         }
 
@@ -145,7 +149,7 @@ public class Tree {
                 parent.leftChild = current.rightChild;
             else
                 parent.rightChild = current.rightChild;
-            //------------durum 3 -----------------------------
+            //------------durum 3 sağda solda var -----------------------------
         else {
             Node successor = getSuccessor(current);
             if (current == root)
@@ -158,12 +162,12 @@ public class Tree {
         return true;
     }
 
-    private Node getSuccessor(Node delNode){
+    private Node getSuccessor(Node delNode){ // varis
         Node successorParent = delNode;
         Node successor = delNode;
         Node current = delNode.rightChild;
 
-        while (current != null){
+        while (current != null){ // sağ ağacın en küçük düğümüne gitmek için sağın en soluna gidilir
             successorParent = successor;
             successor = current;
             current = current.leftChild;
@@ -177,7 +181,7 @@ public class Tree {
     }
 
     public void displayTree() {
-        Stack<Node> globalStack = new Stack<Node>();
+        Stack<Node> globalStack = new Stack<Node>(); // LİFO
         globalStack.push(root);
         int nBlanks = 32;
         boolean isRowEmpty = false;
